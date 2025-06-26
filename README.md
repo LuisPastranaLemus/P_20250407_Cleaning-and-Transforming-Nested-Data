@@ -1,6 +1,6 @@
 # Data Analysis Project
 
-This project is part of the second sprint in a data analysis challenge, focused on advanced data processing techniques. As a member of the analytics team, your task is to transform raw customer data from Store 1 into structured, usable formats for further insights.
+This project is part of a basic data analysis challenge, focused on advanced data processing techniques. As a member of the analytics team, your task is to transform raw customer data from Store 1 into structured, usable formats for further insights.
 
 ---
 
